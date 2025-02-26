@@ -1,7 +1,12 @@
 # BASIC
 # 0. Install and setup Python
-# 1. print()
+# 1. print(): Hàm dùng để in ra màn hình một giá trị hay một biến
+print("Hello world!")
 # 2. Variables
+first_name = 'Vi'
+
+print(first_name)
+
 # 3. Arthimetic & Math
 # 4. Data Type and Typecasting
 # 5. User input()
